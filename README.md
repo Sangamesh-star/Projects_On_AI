@@ -70,7 +70,7 @@ Each project is practical, hands-on, and focused on solving real-world problems 
 ## 🙌 Let’s Connect
 Feel free to explore, fork, or contribute!  
 Got feedback or ideas? Message me anytime.  
-> 🔗 [LinkedIn / Website / Email - optional links here]
+> 🔗 [https://www.linkedin.com/in/sangamesh-m-kuri-034682366]
 
 ---
 
