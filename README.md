@@ -1,4 +1,4 @@
-# 🤖 Projects on AI
+# 30-Days Artificial Intelligence 🚀
 
 Welcome to my **AI Projects Portfolio**!  
 This repository contains a collection of my AI projects built using **Python**, **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Natural Language Processing (NLP)**.
@@ -7,7 +7,7 @@ Each project is practical, hands-on, and focused on solving real-world problems 
 
 ---
 
-## 🧠 Technologies Used
+## 🛠️ Tools & Libraries
 
 - **Languages**: Python  
 - **Libraries/Frameworks**: OpenCV, NumPy, Scikit-learn, Keras, TensorFlow, PyTorch, NLTK, Pygame, Tesseract OCR  
@@ -16,7 +16,7 @@ Each project is practical, hands-on, and focused on solving real-world problems 
 
 ---
 
-## 📂 Project List
+## 📂30-Day AI Projects
 
 | # | Project Name | Description |
 |---|--------------|-------------|
