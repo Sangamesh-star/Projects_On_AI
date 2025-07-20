@@ -58,7 +58,7 @@ Each project is practical, hands-on, and focused on solving real-world problems 
 - ✅📌 **30+ AI Projects** across CV, ML, NLP & more  
 - ✅🎯 Real-world problems solved  
 - ✅🧠 Concepts from scratch to deployment  
--✅ 📈 Bonus: Reinforcement Learning + AI Hardware
+- ✅ 📈 Bonus: Reinforcement Learning + AI Hardware
 
 ---
 
