@@ -18,6 +18,39 @@ Each project is practical, hands-on, and focused on solving real-world problems 
 
 ## 📂30-Day AI Projects
 
+| #  | Project Name                             | Description                                 |
+|----|------------------------------------------|---------------------------------------------|
+| 1  | `AI_Chatbot_With_Dialogflow`             | Basic chatbot using Google Dialogflow.      |
+| 2  | `Python_Intro_And_Environment_Setup`     | Python & OpenCV setup for AI programming.   |
+| 3  | `Computer_Vision_Basics_OpenCV`          | Image processing with OpenCV.               |
+| 4  | `Motion_Detection_Using_OpenCV`          | Moving object detection in video feed.      |
+| 5  | `RealTime_Face_Detection_And_Tracking`   | Real-time face tracking with Haar cascades. |
+| 6  | `Object_Tracking_By_Color`               | Color-based object tracking in video.       |
+| 7  | `Face_Recognition_System`                | Face recognition using encodings.           |
+| 8  | `Emotion_Detection_From_Faces`           | Emotion detection with CNN.                 |
+| 9  | `DeepLearning_Activation_Functions`      | Activation function visualization.          |
+| 10 | `Diabetes_Prediction_Using_Neural_Network` | Predicting diabetes using NN.             |
+| 11 | `RealTime_Object_Detection_With_MobileNetSSD` | Object detection in live feed.          |
+| 12 | `Image_Classification_Using_CNN`         | Image classification using CNN.             |
+| 13 | `Hand_Gesture_Recognition`               | Hand gesture detection using camera.        |
+| 14 | `Leaf_Disease_Detection_Using_DL`        | Plant disease detection using DL.           |
+| 15 | `Character_Recognition_With_GUI`         | GUI for handwritten character recognition.  |
+| 16 | `OCR_Label_Reading_With_Tesseract`       | Text extraction using OCR.                  |
+| 17 | `Face_Recognition_Based_Attendance_System` | Face-based attendance system.             |
+| 18 | `Vehicle_Detection_And_Tracking`         | Vehicle tracking in video footage.          |
+| 19 | `License_Plate_Recognition_System`       | Number plate recognition.                   |
+| 20 | `Drowsiness_Detection_Using_CNN`         | Detecting driver drowsiness via eye state.  |
+| 21 | `Road_Sign_Recognition_Using_DL`         | Traffic sign classification.                |
+| 22 | `ML_Algorithms_Overview_And_UseCases`    | Overview of key ML algorithms.              |
+| 23 | `Power_Consumption_Prediction_Using_ML`  | Predicting energy usage.                    |
+| 24 | `Fake_News_Detection_Using_ML`           | Fake news classification.                   |
+| 25 | `Snake_Game_With_Reinforcement_Learning` | Snake game with RL agent.                   |
+| 26 | `NLP_Basics_With_Applications`           | Basics of NLP and tokenization.             |
+| 27 | `Text_Title_Generation_Using_NLP`        | Title generation from text.                 |
+| 28 | `Speech_Recognition_And_Emotion_Analysis` | Emotion from speech audio.                |
+| 29 | `AI_Cloud_Integration_Demo`              | Used AI APIs from the cloud.                |
+| 30 | `AI_Project_On_Raspberry_Pi`             | AI deployment on Raspberry Pi.              |
+
 | #  | Project Name                             | Description                                      |
 |----|------------------------------------------|--------------------------------------------------|
 | 1  | `AI_Chatbot_With_Dialogflow`             | Created a basic chatbot using Google Dialogflow. |
