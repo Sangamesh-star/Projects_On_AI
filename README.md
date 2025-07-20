@@ -18,6 +18,21 @@ Each project is practical, hands-on, and focused on solving real-world problems 
 
 ## 📂30-Day AI Projects
 
+## 📦 Deep Learning Internship Projects
+
+| Project 1                                                                 | Project 2                                                                | Project 3                                                               |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| **1. AI_Chatbot_With_Dialogflow**<br>Basic chatbot using Dialogflow.     | **2. Python_Intro_And_Environment_Setup**<br>Python & OpenCV setup.      | **3. Computer_Vision_Basics_OpenCV**<br>Image processing with OpenCV.   |
+| **4. Motion_Detection_Using_OpenCV**<br>Motion detection in videos.      | **5. RealTime_Face_Detection_And_Tracking**<br>Face tracking live.       | **6. Object_Tracking_By_Color**<br>Color-based tracking.                |
+| **7. Face_Recognition_System**<br>Face recognition with encodings.       | **8. Emotion_Detection_From_Faces**<br>Emotion detection via CNN.        | **9. DeepLearning_Activation_Functions**<br>Activation function plots.  |
+| **10. Diabetes_Prediction_Using_Neural_Network**<br>Health prediction.   | **11. RealTime_Object_Detection_With_MobileNetSSD**<br>Live object detection. | **12. Image_Classification_Using_CNN**<br>Basic CNN classification.  |
+| **13. Hand_Gesture_Recognition**<br>Camera-based gesture control.        | **14. Leaf_Disease_Detection_Using_DL**<br>Detecting plant diseases.     | **15. Character_Recognition_With_GUI**<br>GUI for character detection.  |
+| **16. OCR_Label_Reading_With_Tesseract**<br>Text from images.            | **17. Face_Recognition_Based_Attendance_System**<br>Attendance system.   | **18. Vehicle_Detection_And_Tracking**<br>Vehicles in video.            |
+| **19. License_Plate_Recognition_System**<br>Detect number plates.        | **20. Drowsiness_Detection_Using_CNN**<br>Detect eye state while driving.| **21. Road_Sign_Recognition_Using_DL**<br>Classify traffic signs.       |
+| **22. ML_Algorithms_Overview_And_UseCases**<br>ML methods recap.         | **23. Power_Consumption_Prediction_Using_ML**<br>Energy usage prediction.| **24. Fake_News_Detection_Using_ML**<br>Fake news classifier.           |
+| **25. Snake_Game_With_Reinforcement_Learning**<br>Snake + RL.            | **26. NLP_Basics_With_Applications**<br>NLP tokenization basics.         | **27. Text_Title_Generation_Using_NLP**<br>Auto title from text.        |
+| **28. Speech_Recognition_And_Emotion_Analysis**<br>Emotion from speech.  | **29. AI_Cloud_Integration_Demo**<br>Using AI APIs from cloud.           | **30. AI_Project_On_Raspberry_Pi**<br>Deploy AI on Raspberry Pi.        |
+
 | #  | Project Name                             | Description                                 |
 |----|------------------------------------------|---------------------------------------------|
 | 1  | `AI_Chatbot_With_Dialogflow`             | Basic chatbot using Google Dialogflow.      |
