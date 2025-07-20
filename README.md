@@ -22,6 +22,41 @@ Each project is practical, hands-on, and focused on solving real-world problems 
 
 | Sl. No. | Project Name                                  | Description                                 |
 |--------:|-----------------------------------------------|---------------------------------------------|
+| 1       | AI Chatbot With Dialogflow                    | Basic chatbot using Google Dialogflow.      |
+| 2       | Python Intro And Environment Setup            | Python & OpenCV setup for AI programming.   |
+| 3       | Computer Vision Basics OpenCV                 | Image processing with OpenCV.               |
+| 4       | Motion Detection Using OpenCV                 | Moving object detection in video feed.      |
+| 5       | Real Time Face Detection And Tracking         | Real-time face tracking with Haar cascades. |
+| 6       | Object Tracking By Color                      | Color-based object tracking in video.       |
+| 7       | Face Recognition System                       | Face recognition using encodings.           |
+| 8       | Emotion Detection From Faces                  | Emotion detection with CNN.                 |
+| 9       | Deep Learning Activation Functions            | Activation function visualization.          |
+| 10      | Diabetes Prediction Using Neural Network      | Predicting diabetes using NN.               |
+| 11      | Real Time Object Detection With MobileNet SSD | Object detection in live feed.              |
+| 12      | Image Classification Using CNN                | Image classification using CNN.             |
+| 13      | Hand Gesture Recognition                      | Hand gesture detection using camera.        |
+| 14      | Leaf Disease Detection Using DL               | Plant disease detection using DL.           |
+| 15      | Character Recognition With GUI                | GUI for handwritten character recognition.  |
+| 16      | OCR Label Reading With Tesseract              | Text extraction using OCR.                  |
+| 17      | Face Recognition Based Attendance System      | Face-based attendance system.               |
+| 18      | Vehicle Detection And Tracking                | Vehicle tracking in video footage.          |
+| 19      | License Plate Recognition System              | Number plate recognition.                   |
+| 20      | Drowsiness Detection Using CNN                | Detecting driver drowsiness via eye state.  |
+| 21      | Road Sign Recognition Using DL                | Traffic sign classification.                |
+| 22      | ML Algorithms Overview And Use Cases          | Overview of key ML algorithms.              |
+| 23      | Power Consumption Prediction Using ML         | Predicting energy usage.                    |
+| 24      | Fake News Detection Using ML                  | Fake news classification.                   |
+| 25      | Snake Game With Reinforcement Learning        | Snake game with RL agent.                   |
+| 26      | NLP Basics With Applications                  | Basics of NLP and tokenization.             |
+| 27      | Text Title Generation Using NLP               | Title generation from text.                 |
+| 28      | Speech Recognition And Emotion Analysis       | Emotion from speech audio.                  |
+| 29      | AI Cloud Integration Demo                     | Used AI APIs from the cloud.                |
+| 30      | AI Project On Raspberry Pi                    | AI deployment on Raspberry Pi.              |
+
+## 📦 Deep Learning Internship Projects
+
+| Sl. No. | Project Name                                  | Description                                 |
+|--------:|-----------------------------------------------|---------------------------------------------|
 | 1       | `AI_Chatbot_With_Dialogflow`                  | Basic chatbot using Google Dialogflow.      |
 | 2       | `Python_Intro_And_Environment_Setup`          | Python & OpenCV setup for AI programming.   |
 | 3       | `Computer_Vision_Basics_OpenCV`               | Image processing with OpenCV.               |
