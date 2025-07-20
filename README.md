@@ -16,42 +16,6 @@ Each project is practical, hands-on, and focused on solving real-world problems 
 
 ---
 
-# 📂 Project List  
-
-| #  | Project Name | Description |
-|----|--------------|-------------|
-| 1  | `AI_Chatbot_With_Dialogflow` | Basic chatbot using Google Dialogflow |
-| 2  | `Python_Intro_And_Environment_Setup` | Python & OpenCV setup for AI programming |
-| 3  | `Computer_Vision_Basics_OpenCV` | Image processing with OpenCV |
-| 4  | `Motion_Detection_Using_OpenCV` | Detects moving objects in video feed |
-| 5  | `RealTime_Face_Detection_And_Tracking` | Tracks faces in real-time using Haar cascades |
-| 6  | `Object_Tracking_By_Color` | Tracks colored objects in live video |
-| 7  | `Face_Recognition_System` | Recognizes faces using pre-trained encodings |
-| 8  | `Emotion_Detection_From_Faces` | Detects facial emotions using CNNs |
-| 9  | `DeepLearning_Activation_Functions` | Visualizes activation functions in DL |
-| 10 | `Diabetes_Prediction_Using_Neural_Network` | Neural network for diabetes prediction |
-| 11 | `RealTime_Object_Detection_With_MobileNetSSD` | Detects common objects in live feed |
-| 12 | `Image_Classification_Using_CNN` | Classifies images using custom CNN |
-| 13 | `Hand_Gesture_Recognition` | Recognizes hand gestures via camera |
-| 14 | `Leaf_Disease_Detection_Using_DL` | Identifies plant diseases from images |
-| 15 | `Character_Recognition_With_GUI` | GUI-based handwritten character recognizer |
-| 16 | `OCR_Label_Reading_With_Tesseract` | Extracts text from images using OCR |
-| 17 | `Face_Recognition_Based_Attendance_System` | Automated attendance with face recognition |
-| 18 | `Vehicle_Detection_And_Tracking` | Detects & tracks vehicles in video |
-| 19 | `License_Plate_Recognition_System` | Recognizes vehicle license plates |
-| 20 | `Drowsiness_Detection_Using_CNN` | Detects drowsy drivers using eye state |
-| 21 | `Road_Sign_Recognition_Using_DL` | Classifies traffic signs using DL |
-| 22 | `ML_Algorithms_Overview_And_UseCases` | Key ML algorithms study & applications |
-| 23 | `Power_Consumption_Prediction_Using_ML` | Predicts energy usage using ML |
-| 24 | `Fake_News_Detection_Using_ML` | Detects fake news articles |
-| 25 | `Snake_Game_With_Reinforcement_Learning` | Snake game played using RL agent |
-| 26 | `NLP_Basics_With_Applications` | NLP basics and tokenization techniques |
-| 27 | `Text_Title_Generation_Using_NLP` | Generates article titles from text |
-| 28 | `Speech_Recognition_And_Emotion_Analysis` | Voice-based emotion recognition |
-| 29 | `AI_Cloud_Integration_Demo` | Uses cloud-based AI APIs |
-| 30 | `AI_Project_On_Raspberry_Pi` | Deploys AI models on Raspberry Pi |
-
-
 ## 📂 Project List
 
 | # | Project Name | Description |
