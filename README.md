@@ -50,14 +50,6 @@ Each project is practical, hands-on, and focused on solving real-world problems 
 | 28      | Speech Recognition And Emotion Analysis       | Emotion from speech audio.                  |
 | 29      | AI Cloud Integration Demo                     | Used AI APIs from the cloud.                |
 | 30      | AI Project On Raspberry Pi                    | AI deployment on Raspberry Pi.              |
-| 31 | Linear Regression |
-| 32 | Naive Bayes |
-| 33 | Clustering Techniques |
-| 34 | Neural Networks |
-| 35 | Neural Networks Demo |
-| 36 | Computer Vision/Image Processing |
-| 37 | CONVOLUTION NEURAL NETWORKS |
-| 38 | CNN Overview |
 
 
 ---
